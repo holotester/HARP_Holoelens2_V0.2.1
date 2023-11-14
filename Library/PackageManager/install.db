@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.microsoft.azure.object-anchors.runtime": {
+      "tarball": {
+        "hash": "7d9625939475",
+        "mtime": 1698914464000,
+        "size": 11689063,
+        "localPath": "C:\\Users\\21027757\\Downloads\\HARP_Holoelens2_V0.2.1-main\\Packages\\MixedReality\\com.microsoft.azure.object-anchors.runtime-0.22.0.tgz"
+      }
+    },
+    "com.microsoft.azure.spatial-anchors-sdk.android": {
+      "tarball": {
+        "hash": "212622f1aa8b",
+        "mtime": 1698914464000,
+        "size": 21168185,
+        "localPath": "C:\\Users\\21027757\\Downloads\\HARP_Holoelens2_V0.2.1-main\\Packages\\MixedReality\\com.microsoft.azure.spatial-anchors-sdk.android-2.13.0.tgz"
+      }
+    },
+    "com.microsoft.azure.spatial-anchors-sdk.core": {
+      "tarball": {
+        "hash": "bd79930953e8",
+        "mtime": 1698914464000,
+        "size": 84499,
+        "localPath": "C:\\Users\\21027757\\Downloads\\HARP_Holoelens2_V0.2.1-main\\Packages\\MixedReality\\com.microsoft.azure.spatial-anchors-sdk.core-2.13.0.tgz"
+      }
+    },
+    "com.microsoft.azure.spatial-anchors-sdk.ios": {
+      "tarball": {
+        "hash": "4cb380af0fed",
+        "mtime": 1698914464000,
+        "size": 47339716,
+        "localPath": "C:\\Users\\21027757\\Downloads\\HARP_Holoelens2_V0.2.1-main\\Packages\\MixedReality\\com.microsoft.azure.spatial-anchors-sdk.ios-2.13.0.tgz"
+      }
+    },
+    "com.microsoft.azure.spatial-anchors-sdk.windows": {
+      "tarball": {
+        "hash": "62b3e83507a2",
+        "mtime": 1698914464000,
+        "size": 18371928,
+        "localPath": "C:\\Users\\21027757\\Downloads\\HARP_Holoelens2_V0.2.1-main\\Packages\\MixedReality\\com.microsoft.azure.spatial-anchors-sdk.windows-2.13.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.openxr": {
+      "tarball": {
+        "hash": "a4cc3ecd3f67",
+        "mtime": 1698914464000,
+        "size": 10611639,
+        "localPath": "C:\\Users\\21027757\\Downloads\\HARP_Holoelens2_V0.2.1-main\\Packages\\MixedReality\\com.microsoft.mixedreality.openxr-1.4.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.sceneunderstanding": {
+      "tarball": {
+        "hash": "7bfd3a8ea18c",
+        "mtime": 1698914464000,
+        "size": 1293225,
+        "localPath": "C:\\Users\\21027757\\Downloads\\HARP_Holoelens2_V0.2.1-main\\Packages\\MixedReality\\com.microsoft.mixedreality.sceneunderstanding-0.6.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.examples": {
+      "tarball": {
+        "hash": "d7fd263e360f",
+        "mtime": 1698914464000,
+        "size": 55085288,
+        "localPath": "C:\\Users\\21027757\\Downloads\\HARP_Holoelens2_V0.2.1-main\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.examples-2.8.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.extensions": {
+      "tarball": {
+        "hash": "0c9d84925720",
+        "mtime": 1698914464000,
+        "size": 1129391,
+        "localPath": "C:\\Users\\21027757\\Downloads\\HARP_Holoelens2_V0.2.1-main\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.extensions-2.8.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.foundation": {
+      "tarball": {
+        "hash": "251fc689f36f",
+        "mtime": 1698914464000,
+        "size": 11551936,
+        "localPath": "C:\\Users\\21027757\\Downloads\\HARP_Holoelens2_V0.2.1-main\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.foundation-2.8.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.standardassets": {
+      "tarball": {
+        "hash": "fcc2d8083af4",
+        "mtime": 1698914464000,
+        "size": 5302736,
+        "localPath": "C:\\Users\\21027757\\Downloads\\HARP_Holoelens2_V0.2.1-main\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.standardassets-2.8.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.testutilities": {
+      "tarball": {
+        "hash": "a9617008067f",
+        "mtime": 1698914464000,
+        "size": 18010,
+        "localPath": "C:\\Users\\21027757\\Downloads\\HARP_Holoelens2_V0.2.1-main\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.testutilities-2.8.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.tools": {
+      "tarball": {
+        "hash": "784ac11e28c0",
+        "mtime": 1698914464000,
+        "size": 2107315,
+        "localPath": "C:\\Users\\21027757\\Downloads\\HARP_Holoelens2_V0.2.1-main\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.tools-2.8.0.tgz"
+      }
+    },
+    "com.microsoft.mrtk.graphicstools.unity": {
+      "tarball": {
+        "hash": "b8cb5dc7a3c3",
+        "mtime": 1698914464000,
+        "size": 9131872,
+        "localPath": "C:\\Users\\21027757\\Downloads\\HARP_Holoelens2_V0.2.1-main\\Packages\\MixedReality\\com.microsoft.mrtk.graphicstools.unity-0.4.0.tgz"
+      }
+    },
+    "com.microsoft.spatialaudio.spatializer.unity": {
+      "tarball": {
+        "hash": "15892c90b669",
+        "mtime": 1698914464000,
+        "size": 5994858,
+        "localPath": "C:\\Users\\21027757\\Downloads\\HARP_Holoelens2_V0.2.1-main\\Packages\\MixedReality\\com.microsoft.spatialaudio.spatializer.unity-1.0.246.tgz"
+      }
+    }
+  }
+}
